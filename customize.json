@@ -1,8 +1,6 @@
 {
-  "name": "Даяна",
-  "greetingText": "Мне очень нравится твое имя",
-  "wishText": "Поздравляю тебя с днём святого валентина , ты самая мега супер крутая пикми Даяшик. 
-  надеюсь хотя-бы в этот день ты не будешь называть меня маслом и говорить что отт меня пахнет общеобразовательными школами.
-  я дела этот сайт для тебя долго и надеюсь тебе понравился он.",
+  "name": "Dayana",
+  "greetingText": "I really like your name",
+  "wishText": "Happy Valentine's Day, you are the most mega super cool pikmi Dayashik",
   "imagePath": "img/Dayana.jpg"
 }
